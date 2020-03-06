@@ -19,11 +19,12 @@ nav a {
   padding: 10px;
   background: pink;
 }
+
 figcaption {
   text-align: center;
   font-size: 10px; 
 }
-}
+
 #details > div {
   float: left; 
 }
