@@ -35,3 +35,9 @@ figcaption {
 #details > div {
   float: left; 
 }
+
+div{
+  background: pink;
+  text-align: center;
+  
+}
