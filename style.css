@@ -19,8 +19,9 @@ nav a {
   padding: 10px;
   background: pink;
 }
-#featured-property {
-  font-size: 
+figcapture {
+  text-align: center;
+  font-size: 10px 
 }
 }
 #details > div {
