@@ -15,8 +15,9 @@ h1 {
   margin-right: auto;
 }
 
-a {
+nav a {
   padding: 10px;
+  background: red;
   
 }
 #featured-property {
